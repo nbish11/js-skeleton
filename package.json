@@ -1,0 +1,51 @@
+{
+  "name": "@nbish11/js-skeleton",
+  "version": "0.1.0",
+  "description": "A blank repository for npm packages with es6 support.",
+  "main": "src/main.js",
+  "scripts": {
+    "prepublish": "running 'prepublish' command",
+    "prepare": "running 'prepare' command",
+    "prebublishOnly": "running 'prepublishOnly' command",
+    "prepack": "running 'prepack' command",
+    "postpack": "running 'postpack' command",
+    "publish": "running 'publish' command",
+    "postpublish": "running 'postpublish' command",
+    "preinstall": "running 'preinstall' command",
+    "install": "running 'install' command",
+    "postinstall": "running 'postinstall' command",
+    "preuninstall": "running 'preuninstall' command",
+    "uninstall": "running 'uninstall' command",
+    "postuninstall": "running 'postuninstall' command",
+    "preversion": "running 'preversion' command",
+    "version": "running 'version' command",
+    "postversion": "running 'postversion' command",
+    "pretest": "running 'pretest' command",
+    "test": "running 'test' command",
+    "posttest": "running 'posttest' command",
+    "prestop": "running 'prestop' command",
+    "stop": "running 'stop' command",
+    "poststop": "running 'poststop' command",
+    "prestart": "running 'prestart' command",
+    "start": "running 'start' command",
+    "poststart": "running 'poststart' command",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbish11/js-skeleton.git"
+  },
+  "keywords": [
+    "js",
+    "skeleton",
+    "javascript",
+    "boilerplate",
+    "es6",
+    "es2015"
+  ],
+  "author": "Nathan Bishop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nbish11/js-skeleton/issues"
+  },
+  "homepage": "https://github.com/nbish11/js-skeleton#readme"
+}
