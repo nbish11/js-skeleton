@@ -28,7 +28,7 @@
     "poststop": "running 'poststop' command",
     "prestart": "running 'prestart' command",
     "start": "running 'start' command",
-    "poststart": "running 'poststart' command",
+    "poststart": "running 'poststart' command"
   },
   "repository": {
     "type": "git",
